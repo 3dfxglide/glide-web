@@ -24,12 +24,13 @@ $headers = getallheaders();
   <div class="content">
     <center>
       <h1>Welcome to the Glide Open Source Project</h1>
-      <p>
-        We haven't put much material up yet. Current development is being
-        done in the cvs branch <tt>glide-devel-branch</tt>. We have released
-        some files now. Check the project page.
-      </p>
     </center>
+
+    <p>
+      We haven't put much material up yet. Current development is being
+      done in the cvs branch <tt>glide-devel-branch</tt>. We have released
+      some files now. Check the project page.
+    </p>
 
     <p>
       Here are a few links to get you started: <br />
