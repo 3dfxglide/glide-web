@@ -48,7 +48,6 @@ div.footer {
   bottom: 10%;
 }
 div.footer div.footer-top {
-  width: 100%;
   background-color: black;
 }
 div.footer div.footer-content {
@@ -57,7 +56,6 @@ div.footer div.footer-content {
   vertical-align: middle;
 }
 div.footer div.footer-bottom {
-  width: 100%;
   background-color: black;
   text-align: center;
 }
