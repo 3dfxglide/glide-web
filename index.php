@@ -34,7 +34,7 @@ $headers = getallheaders();
 	<p>
 	  In the mean time here's a few links to get you started: <br />
 	  <ul>
-	    <li><a href="http://www.sf.net/project/glide">The
+	    <li><a href="http://www.sf.net/projects/glide">The
 	        Glide Project on SourceForge</a></li>
 	    <li><a href="http://www.3dfx.com">The 3dfx website</a></li>
 	    <li><a href="http://www.precisioninsight.com">The Precision Insight
@@ -54,7 +54,7 @@ $headers = getallheaders();
   <!-- Top strip -->
   <table width="100%" border="0" cellspacing="0" cellpadding="2" bgcolor="#000000">
     <tr>
-      <tr>
+      <td>
 	<span class="maintitlebar">&nbsp;&nbsp;
 	  <a class="maintitlebar" href="http://sf.net/about.php">
 	    <b>About SourceForge</b></a> |
