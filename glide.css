@@ -1,0 +1,65 @@
+/*
+ * Glide Project Web stylesheet
+ *
+ * $Id$
+ *
+ */
+
+body {
+  background-color: white;
+  font-family: arial, helvetica, sans-serif;
+}
+
+a { text-decoration: none; color #6666FF; }
+a:visited { text-decoration: none; color: #6666AA; }
+a:link { text-decoration: none; color: #6666AA; }
+a:active { text-decoration: none; color: #6666AA; }
+a:hover { text-decoration: none; color: #FF6666; }
+
+ol,ul,p,body,td,tr,th,form,span {
+  font-family: arial, helvetica, sans-serif;
+  color: #333333;
+}
+h1,h2,h3,h4,h5,h6 { font-family: arial, helvetica, sans-serif; }
+pre,tt { font-family: courier, sans-serif; }
+
+span.center { text-align: center; }
+span.boxspace { font-size: 2pt; }
+
+a.maintitlebar { color: white; }
+a.maintitlebar:visited { color: white; }
+
+span.alignright { text-align: right }
+span.maintitlebar { font-size: 10pt; color: white; }
+span.titlebar {
+  text-align: center;
+  font-size: 10pt;
+  color: white;
+  font-weight: bold;
+}
+
+div.content {
+  width: 100%;
+  background-color: white;
+}
+div.footer {
+  position: absolute;
+  width: 100%;
+  bottom: 10%;
+}
+div.footer div.footer-top {
+  width: 100%;
+  background-color: black;
+}
+div.footer div.footer-content {
+  width: 100%;
+  padding: 5px;
+  background-image: url(http://sf.net/images/binary-code.gif);
+  vertical-align: middle;
+}
+div.footer div.footer-bottom {
+  width: 100%;
+  background-color: black;
+  text-align: center;
+}
+
