@@ -9,7 +9,6 @@
 $headers = getallheaders();
 
 ?>
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
@@ -53,8 +52,8 @@ $headers = getallheaders();
   <br />
 
   <!-- Top strip -->
-  <table width="100%" border="0" cellspacing="0" cellpadding="2">
-    <tr bgcolor="#000000">
+  <table width="100%" border="0" cellspacing="0" cellpadding="2" bgcolor="#000000">
+    <tr>
       <tr>
 	<span class="maintitlebar">&nbsp;&nbsp;
 	  <a class="maintitlebar" href="http://sf.net/about.php">
