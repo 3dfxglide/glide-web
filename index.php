@@ -57,6 +57,28 @@ $headers = getallheaders();
         </li>
       </ul>
     </p>
+    <p>
+      Related 3Dfx cards projects: <br />
+      <ul>
+        <li>
+          <a href="http://v3tv.sf.net/">V3TV: Voodoo3 3500 TV-IN</a>
+        </li>
+        <li>
+          <a href="ftp://people.redhat.com/alan/XFree86/Voodoo/">Alan Cox's
+          glide-free XFree86 driver for Voodoo1/2</a>
+        </li>
+        <li>
+          <a href="http://dri.sf.net/">3Dfx DRI driver</a>
+        </li>
+        <li>
+          <a href="http://www.mesa3d.org/">Mesa3D</a>
+        </li>
+        <li>
+          <a href="http://www.medex.hu/~danthe/tdfx/">Linux 3Dfx FrameBuffer
+          driver and specs</a>
+        </li>
+      </ul>
+    </p>
   </div>
 
   <!-- Start SourceForge Footer -->
