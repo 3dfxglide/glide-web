@@ -29,7 +29,8 @@ $headers = getallheaders();
     <p>
       We haven't put much material up yet. Current development is being
       done in the cvs branch <tt>glide-devel-branch</tt>. We have released
-      some files now. Check the project page.
+      some files now. Check the project page or the <a href="TODO.php">TODO
+      list</a>.
     </p>
 
     <p>
