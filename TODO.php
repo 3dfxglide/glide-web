@@ -34,7 +34,6 @@ $headers = getallheaders();
         <li>Port the current DOS, Win32 only functions to other platforms.</li>
         <li>Add support for Voodoo, Voodoo2, Voodoo Rush.</li>
         <li>Fix autothings. <i>(in progress)</i></li>
-        <li>Port device3dfx to Linux kernel 2.6</li>
         <li>Integrate 64 bit support patches. <i>(in progress)</i></li>
         <li>Merge glide3 arches cvg, h3 and h5. <i>(in progress)</i></li>
         <li>Merge glide2 and glide3.</li>
